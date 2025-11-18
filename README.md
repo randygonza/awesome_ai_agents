@@ -6,6 +6,8 @@
   [![Subscribe to Newsletter](https://img.shields.io/badge/Subscribe%20to%20Newsletter-%23FF9900?style=for-the-badge&logo=mailchimp&logoColor=white)](https://agents.blog)
 
   <img src="./assets/logo.webp" width="400" />
+  
+  [![Star History Chart](https://api.star-history.com/svg?repos=jim-schwoebel/awesome_ai_agents&type=Date)](https://star-history.com/#jim-schwoebel/awesome_ai_agents&Date)
 </div>
 </br>
 
