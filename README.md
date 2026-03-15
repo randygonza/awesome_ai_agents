@@ -801,6 +801,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Upstreet-Core](https://github.com/UpstreetAI/upstreet-core) - Build and deploy AI Agents, fast.
 - [Vitalhome-Chat](https://github.com/vital-ai/vitalhome-chat) - Ontology for Chat Agents deployed on Chat.ai
 - [Woodwork-Engine](https://github.com/willwoodward/woodwork-engine) - An AI Agent IaC tool that aims to make developing and deploying AI Agents easier.
+- [WritBase](https://github.com/Writbase/writbase) - MCP-native task management for AI agent fleets [github](https://github.com/Writbase/writbase)
 - [Xpertagent](https://github.com/rookie-littleblack/XpertAgent) - XpertAgent is an open-source platform for building and deploying AI applications. It combines intelligent workflow orchestration, knowled…
 
 ### Ethics
